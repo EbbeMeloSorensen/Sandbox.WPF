@@ -1,0 +1,16 @@
+﻿<Window x:Class="AsyncAwait.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AsyncAwait"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock Text="{Binding Dummy}"/>
+        <Button HorizontalAlignment="Left" Content="Do something ordinary (RelayCommand)" Command="{Binding OrdinaryRelayCommand}"/>
+        <Button HorizontalAlignment="Left" Content="Brew some coffee (AsyncCommand1)" Command="{Binding MyAsyncCommand1}"/>
+        <Button HorizontalAlignment="Left" Content="Roll a die (AsyncCommand2)" Command="{Binding MyAsyncCommand2}"/>
+        <Button HorizontalAlignment="Left" Content="Do heavy computation (AsyncCommand3)" Command="{Binding MyAsyncCommand3}"/>
+    </StackPanel>
+</Window>

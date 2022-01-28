@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zx6XXNe+w1QxQ/bMhBCgU4iYpW1VzKW0LE0t9KKxT256fZA9rzcFhRf2BhJroLy1PM1boh11QsB1z/HHZNztNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\GitHub\\Sandbox.WPF\\Sandbox.WPF.MVVM\\AsyncAwait\\AsyncAwait.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ebbe\\.nuget\\packages\\mvvmlightlibsstd10\\5.4.1.1\\mvvmlightlibsstd10.5.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ae7cb15-aeef-45ca-9d62-4971f03438ee": {
+      "ProjectGuid": "7ae7cb15-aeef-45ca-9d62-4971f03438ee",
+      "DisplayName": "Sandbox.WPF.MVVM",
+      "ColorIndex": 0
+    },
+    "1ed8493b-396b-412f-b889-36dbcf129ba9": {
+      "ProjectGuid": "1ed8493b-396b-412f-b889-36dbcf129ba9",
+      "DisplayName": "AsyncAwait",
+      "ColorIndex": 1
+    },
+    "e7541639-88fb-4608-8a40-7728390b2dbe": {
+      "ProjectGuid": "e7541639-88fb-4608-8a40-7728390b2dbe",
+      "DisplayName": "AsyncAwait",
+      "ColorIndex": 2
+    },
+    "f5e6204e-b1e1-4891-8601-da7cdef553d1": {
+      "ProjectGuid": "f5e6204e-b1e1-4891-8601-da7cdef553d1",
+      "DisplayName": "AsyncAwait",
+      "ColorIndex": 3
+    },
+    "6ee62ab1-faed-4ac9-853a-56ca04513a28": {
+      "ProjectGuid": "6ee62ab1-faed-4ac9-853a-56ca04513a28",
+      "DisplayName": "AsyncAwait",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
